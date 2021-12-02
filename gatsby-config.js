@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://headlessmultilingual.gatsbyjs.io",
+    siteUrl: "https://techmilestone.gatsbyjs.io",
   },
   plugins: [
     {
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: "gatsby-source-datocms",
       options: {
-        apiToken: "df7ea117c4efe00347258c921623e2",
+        apiToken: "a201c4e6abec1c0286c222a8116f7e",
       },
     },
   ],
