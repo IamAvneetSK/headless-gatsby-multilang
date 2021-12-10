@@ -33,7 +33,7 @@ const HomePageTemplate = ({ data, pageContext }) => {
             <Navigator
               className="classicButton classicButtonOutline"
               page
-              to={data.datoCmsWebsiteSetting.seeTheGuideButtonUrl}
+              to={data.datoCmsWebsiteSetting.see_the_guide_button_url}
             >
               {data.datoCmsWebsiteSetting.seeTheGuideButton}
             </Navigator>
