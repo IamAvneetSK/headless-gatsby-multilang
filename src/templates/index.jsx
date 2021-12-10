@@ -35,7 +35,7 @@ const HomePageTemplate = ({ data, pageContext }) => {
               page
               to={data.aboutPageLink.slug}
             >
-              {data.datoCmsWebsiteSetting.seeTheGuideButton}
+              {data.datoCmsWebsiteSetting.seeTheAboutButton}
             </Navigator>
           }
           sectionChildren={
