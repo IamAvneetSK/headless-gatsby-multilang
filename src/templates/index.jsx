@@ -33,7 +33,7 @@ const HomePageTemplate = ({ data, pageContext }) => {
             <Navigator
               className="classicButton classicButtonOutline"
               page
-              to="https://about.techmilestone.cf"
+              to="about"
             >
               {data.datoCmsWebsiteSetting.seeTheGuideButton}
             </Navigator>
