@@ -33,9 +33,9 @@ const HomePageTemplate = ({ data, pageContext }) => {
             <Navigator
               className="classicButton classicButtonOutline"
               page
-              to={data.aboutPageLink.slug}
+              to={https://about.techmilestone.cf}
             >
-              {data.datoCmsWebsiteSetting.seeTheAboutButton}
+              {data.datoCmsWebsiteSetting.seeTheGuideButton}
             </Navigator>
           }
           sectionChildren={
